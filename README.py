@@ -5,6 +5,8 @@ Asal = "Banyuwangi"
 
 
 
+
+
 print("Nama :", Nama)
 print("nim :", nim)
 print("Prodi :", Prodi)
